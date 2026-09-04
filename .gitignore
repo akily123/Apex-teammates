@@ -3,5 +3,6 @@ out/
 dist/
 .npm-cache/
 .electron-cache/
+apex-debug.json
 *.log
 .DS_Store
